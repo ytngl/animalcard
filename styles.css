@@ -1,0 +1,37 @@
+body{
+    font-family:"Times New Roman", Times, serif;
+}
+#animal-trading-card{
+    border-style: solid;
+    width: 330px;
+    height: 600px;
+    border-width: 1px;
+    border-color: #d3d3d3;
+    -webkit-box-shadow: 5px 15px 5px 8px rgba(0,0,0,0.16);
+    -moz-box-shadow: 5px 15px 5px 8px rgba(0,0,0,0.16);
+    box-shadow: 5px 15px 5px 8px rgba(0,0,0,0.16); 
+
+}
+.animalName{
+    text-align: left;
+    padding: 16px;
+}
+.animalPicture{
+    margin-left: 14px;
+}
+.information{
+    border-style: solid;
+    border-width: 1px;
+    border-color: #d3d3d3;
+    margin: 8px;
+    padding: 8px;
+}
+.interestingFact{
+    font-style: italic;
+}
+.label{
+    font-weight: bold;
+}
+.itemFact{
+    list-style: none;
+}
